@@ -6,3 +6,5 @@
 -   Then run in the terminal _npm run dev_.
 
 #### Demo:
+
+[This is a link to the demo](https://rubenarturopj.github.io/030-react-birthday_buddy/)
